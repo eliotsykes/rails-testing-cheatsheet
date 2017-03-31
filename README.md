@@ -1,4 +1,6 @@
-> A community-driven cheatsheet for testing Rails apps. Its all on one page to make it easier to find what you're looking for.
+# Rails Testing Cheatsheet
+
+> 🚌 A community-driven cheatsheet for testing Rails apps. Its all on one page to make it easier to find what you're looking for.
 
 ## Capybara
 
